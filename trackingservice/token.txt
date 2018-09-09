@@ -1,0 +1,17 @@
+$ curl -H "Authorization: JWT <your_token>" http://localhost:8000/protected-url/
+
+$ curl -X POST -d "username=admin&password=eE9930942566" http://localhost:8000/api-token-auth/
+
+$ curl -H "Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6ImFkbWluIiwiZXhwIjoxNTM2NDE0OTYzLCJlbWFpbCI6ImFkbWluQG15c2l0ZS5jb20ifQ.EP8e6o6Mkx3xYbImNCrgJFlD5e69DEKNHX2U9O00MIc" http://localhost:8000/api/user
+
+*****************************************
+*****************************************
+
+project help
+
+no3) numpy and pandas
+no4) pyqt
+
+
+
+
